@@ -42,3 +42,20 @@ body {
   padding-top: 10px;
   top: 1px;
 }
+
+.robot-head-right {
+  left: 50%;
+}
+
+.robot-head-left {
+  right: 50%;
+}
+
+.banner:hover .robot-head-right {
+  left: 58%;
+  top: -10px;
+}
+
+.banner:hover .robot-brain {
+  top: 2%;
+}
